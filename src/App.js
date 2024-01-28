@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
-import Home from './components/utilities/home';
-import Book from './components/utilities/book';
-import Contact from './components/utilities/contact';
-import About from './components/utilities/about';
-import Auth from './components/utilities/auth';
+import Home from './components/home';
+import Book from './components/book';
+import Contact from './components/contact';
+import About from './components/about';
+import Auth from './components/auth';
 
 function App() {
   return (
